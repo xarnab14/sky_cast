@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast - Weather Forecast",
+  "description": "Modern, professional weather forecast dashboard with real-time weather, hourly projections, 7-day outlook, interactive weather maps, air quality index, and dynamic atmospheric themes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
